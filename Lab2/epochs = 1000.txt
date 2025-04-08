@@ -1,0 +1,35 @@
+epochs = 1000
+lr = 0.01  
+log_each = 10
+loss_history = []
+
+Epoch 10/1000 - Loss: 1.98292
+Epoch 20/1000 - Loss: 1.92395
+Epoch 30/1000 - Loss: 1.89635
+Epoch 40/1000 - Loss: 1.87295
+Epoch 50/1000 - Loss: 1.84270
+Epoch 60/1000 - Loss: 1.81474
+Epoch 70/1000 - Loss: 1.78611
+Epoch 80/1000 - Loss: 1.77497
+Epoch 90/1000 - Loss: 1.75378
+Epoch 100/1000 - Loss: 1.72959
+Epoch 110/1000 - Loss: 1.73675
+Epoch 120/1000 - Loss: 1.69088
+Epoch 130/1000 - Loss: 1.68955
+Epoch 140/1000 - Loss: 1.65800
+Epoch 150/1000 - Loss: 1.59312
+Epoch 160/1000 - Loss: 1.62465
+Epoch 170/1000 - Loss: 1.62743
+Epoch 180/1000 - Loss: 1.58947
+Epoch 190/1000 - Loss: 1.58888
+Epoch 200/1000 - Loss: 1.53945
+Epoch 210/1000 - Loss: 1.50766
+Epoch 220/1000 - Loss: 1.56674
+Epoch 230/1000 - Loss: 1.50323
+Epoch 240/1000 - Loss: 1.45952
+Epoch 250/1000 - Loss: 1.47039
+...
+Epoch 980/1000 - Loss: 1.09973
+Epoch 990/1000 - Loss: 1.16015
+Epoch 1000/1000 - Loss: 1.08388
+Precisión del modelo: 57.00%
